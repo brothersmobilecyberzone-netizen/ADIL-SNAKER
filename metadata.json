@@ -1,0 +1,8 @@
+{
+  "name": "ADIL-SNAKER-PANEL",
+  "description": "Official 3D Android Mobile Snake Game by ADIL PANEL featuring 15 skins, 5 worlds, fluid 3D arena mechanics, and mobile controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
